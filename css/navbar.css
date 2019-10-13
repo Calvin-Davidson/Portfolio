@@ -1,20 +1,30 @@
 .navbar {
-  color: green;
   background-color: #8C43FF;
 }
 .nav-link {
   color: white;
   font-weight: bold;
-  margin-left: 15px;
+  margin-left: 20px;
+  padding-left: 5px;
 }
 .nav-link:hover {
   color: black;
   font-weight: bold;
 }
 .navbar-brand:hover {
-  color:black;
+  color:white;
 }
 .navbar-brand {
   color: white;
   font-weight: bolder;
+}
+.navbar ul {
+  list-style:none;
+}
+.current {
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+.current:hover {
+  text-shadow: -2px 0 #8C43FF, 0 2px #8C43FF, 2px 0 #8C43FF, 0 -2px #8C43FF;
 }
