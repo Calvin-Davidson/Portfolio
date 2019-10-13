@@ -1,0 +1,20 @@
+.navbar {
+  color: green;
+  background-color: #8C43FF;
+}
+.nav-link {
+  color: white;
+  font-weight: bold;
+  margin-left: 15px;
+}
+.nav-link:hover {
+  color: black;
+  font-weight: bold;
+}
+.navbar-brand:hover {
+  color:black;
+}
+.navbar-brand {
+  color: white;
+  font-weight: bolder;
+}
