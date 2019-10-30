@@ -1,2 +1,2 @@
 # Portfolio
-My portfolio
+Mijn portfolio voor PROJ && UXD op school. 

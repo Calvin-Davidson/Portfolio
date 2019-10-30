@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.skill-row {
+  width: 50%;
+  display: inline-block;
+  margin: 10px auto 10px auto;
+  text-align: left;
+  line-height: 2rem;
+}
+
+
+
+.SkillsPic {
+  height: 250px;
+  width: 40%;
+  margin-top: 10px;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.SkillsPic2 {
+  float: right;
+  height: 250px;
+  width: 40%;
+  margin-top: 75px;
+  margin-bottom: 5px;
+}
+.skill-row {
+  display: inline-block;
+  margin-left: 25%;
+}

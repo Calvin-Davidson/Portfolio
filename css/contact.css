@@ -1,0 +1,14 @@
+.wrapper {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  padding-top: 100px;
+}
+.wrapper form {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}

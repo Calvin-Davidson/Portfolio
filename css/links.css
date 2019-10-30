@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+.link-row {
+  width: 50%;
+  display: inline-block;
+  margin: 10px auto 10px auto;
+  text-align: left;
+  line-height: 2rem;
+}
+
+
+
+.linksPic {
+  height: 250px;
+  width: 40%;
+  margin-top: 10px;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.linksPic2 {
+  float: right;
+  height: 250px;
+  width: 40%;
+  margin-top: 75px;
+  margin-bottom: 5px;
+}
+.link-row {
+  display: inline-block;
+  margin-left: 25%;
+}
